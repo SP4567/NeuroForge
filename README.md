@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries, feel free to reach out:
 
-- **Email**: your-email@example.com
+- **Email**: suyashpandey9611@gmail.com
 - **GitHub**: [SP4567](https://github.com/SP4567)
 
 ---
